@@ -1,6 +1,3 @@
 My content
-<<<<<<< HEAD
 This is my changed branch
-=======
 This is his changed branch.
->>>>>>> hisbranch
